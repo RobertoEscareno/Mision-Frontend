@@ -1,0 +1,16 @@
+.gallery {
+
+    .gallery-item {
+        margin-bottom: 50px;
+
+        img {
+            display: block;
+            max-width: 450px;
+            margin: 0 auto;
+        }
+
+        p {
+            margin: 1em 0;
+        }
+    }
+}

@@ -1,0 +1,26 @@
+header {
+  display: flex; }
+
+.gallery .gallery-item {
+  margin-bottom: 50px; }
+  .gallery .gallery-item img {
+    display: block;
+    max-width: 450px;
+    margin: 0 auto; }
+  .gallery .gallery-item p {
+    margin: 1em 0; }
+
+footer {
+  padding: 25px;
+  background-color: #333;
+  color: #fff; }
+
+body {
+  background-color: #ecf0d9;
+  color: #000; }
+
+main {
+  padding-left: 25px;
+  padding-right: 25px; }
+
+/*# sourceMappingURL=main.css.map */
